@@ -15,4 +15,4 @@ It took me around 3 hours to get this up and working, and mostly issues were aro
 
 Here is a [sample video](https://youtu.be/4ywXNJ_38T0) by running `python3 turtle-tube.py "https://www.youtube.com/watch?v=zE7PKRjrid4"`
  
-
+NOTE:- code quality is shitty. I am gonna rewrite it in more pythonic style. 
