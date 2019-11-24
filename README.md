@@ -13,5 +13,6 @@ How to run it:-
   
 It took me around 3 hours to get this up and working, and mostly issues were around refresh of turtle screen. I used two separate turtles and swapped them every next frame. That gave it better look. I think depending on the processing power of the system, the speed of video play varies.
 
-Here is a sample video :-
+Here is a [sample video](https://youtu.be/4ywXNJ_38T0) by running `python3 run.py "https://www.youtube.com/watch?v=zE7PKRjrid4"`
+ 
 
